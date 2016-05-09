@@ -20,3 +20,4 @@ $ tsd install angular
 ```
 $ tsd rebundle
 ```
+[link](http://kaflan.github.io/angularTYpescript2/)
