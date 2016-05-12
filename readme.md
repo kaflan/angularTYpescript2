@@ -42,4 +42,8 @@ $ tsd rebundle
 declare function require(string): any;
 
 ```
-[link](http://kaflan.github.io/angularTYpescript2/)
+### How to save file in tsd config
+```
+ tsd install angular --save or  tsd install angular -s
+```
+[Simple](http://kaflan.github.io/angularTYpescript2/)
