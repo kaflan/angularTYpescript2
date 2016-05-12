@@ -37,4 +37,9 @@ touch tsconfig.json
 ```
 $ tsd rebundle
 ```
+### Add simple function read your code to tsd.d.ts  file
+```
+declare function require(string): any;
+
+```
 [link](http://kaflan.github.io/angularTYpescript2/)
