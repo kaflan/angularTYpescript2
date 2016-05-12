@@ -15,6 +15,23 @@ $ tsd init
 ```
 $ tsd install angular
 ```
+### Create tsconfig.json file
+```
+touch tsconfig.json
+```
+#### Simpleconfig tsconfig.json
+```
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+```
 
 ### Cleanup the bundle file (usually tsd.d.ts): remove paths to non-existent files, and append unlisted definitions. Handy when editing definitions.
 ```

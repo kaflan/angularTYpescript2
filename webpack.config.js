@@ -1,5 +1,3 @@
-
-
 module.exports = {
 
     context: __dirname + '/app',
