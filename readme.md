@@ -47,3 +47,9 @@ declare function require(string): any;
  tsd install angular --save or  tsd install angular -s
 ```
 [Simple](http://kaflan.github.io/angularTYpescript2/)
+
+
+### How to install webpack dev server (err)
+```
+npm i -g webpack-dev-server  
+```
